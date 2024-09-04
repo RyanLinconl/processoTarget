@@ -1,0 +1,5 @@
+Execute o arquivo com Node.js:
+
+No terminal, navegue até o diretório onde index.js e faturamento.json estão localizados e execute:
+
+node index.js
